@@ -1,6 +1,5 @@
 ### Xuanlin Zhu
-
-**Researcher in Computational Media & Critical Game Design**  
+  
 *B.S. Applied Mathematics & Computer Science | College of William & Mary '25*
 
 I work at the intersection of **humanistic inquiry** and **formal methods**, developing computational approaches to problems in media studies, literary analysis, and game preservation. My research spans algorithmic optimization, natural language processing, and the epistemology of simulation—unified by a commitment to treating technical systems as objects of critical interpretation.
