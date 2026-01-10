@@ -12,7 +12,7 @@ I am a **Computational Humanist** — applying formal methods (optimal transport
 
 > **Fun Fact¹:** I composed a character verse:
 > 
-> 鸟`鸣`袈`裟`外，帝啼襁褓中
+> 鸟`鸣`袈`裟`外，帝啼襁褓中。
 > 
 > *"The `my`na's s`o`ng s`o`ars past the [kā`ṣā`ya](https://en.wikipedia.org/wiki/Kasaya_(clothing)); / The king keens, caught in cradle cloth."*
 > 
