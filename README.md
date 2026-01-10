@@ -8,9 +8,9 @@ I am a **Computational Humanist** — applying formal methods (optimal transport
 
 ### 🎭 **About the Avatar**
 
-**Fun Fact:** The avatar is a hand-drawn icon of my MMORPG character — a young-boy archetype Shaolin monk named 鸣裟 (Myouza). In reality, I'm a long-haired adult who was already 21 when I started this 7-year journey.
+**Fun Fact:** The avatar is a hand-drawn icon based on my MMORPG character — a young-boy archetype Shaolin monk named 鸣裟 (Myouza). In reality, I'm a long-haired adult who was already 21 when I started this 7-year journey.
 
-> **Fun Fact¹:** The character has a character verse (角色诗):
+> **Fun Fact¹:** I composed a character verse:
 > 
 > 鸟`鸣`袈`裟`外，帝啼襁褓中
 > 
@@ -22,7 +22,7 @@ I am a **Computational Humanist** — applying formal methods (optimal transport
 > > 
 > > **Fun Fact¹·³:** "Myouza" is not the standard Sino-Japanese reading — I deliberately adopted [Buddhist on'yomi](https://en.wikipedia.org/wiki/On%27yomi#Go-on) (cf. 輪廻→*rinne*, 袈裟→*kesa*).
 > 
-> **Fun Fact²:** The monkey is the Shaolin faction mascot, worn as an [ita-bag](https://en.wikipedia.org/wiki/Ita-bag).
+> **Fun Fact²:** The monkey is the Shaolin faction mascot in the game, worn as an [ita-bag](https://en.wikipedia.org/wiki/Ita-bag).
 
 ---
 
