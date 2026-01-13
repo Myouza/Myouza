@@ -42,7 +42,7 @@ I am a **Computational Humanist** — applying formal methods (optimal transport
 
 ### 📫 **Contact**
 * **Email:** [xzhu09@wm.edu](mailto:xzhu09@wm.edu)
-* **Focus:** PhD Applicant for Fall 2026
+* **Focus:** Graduate program applicant for Fall 2026
 
 ---
 
